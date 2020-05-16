@@ -1,7 +1,8 @@
 Programa Talento Digital Java Fullstack Trainee.
 Proyecto BD
 
-Se solicita implementar una base de datos de evaluaciones. Se deben crear Scripts para su integración, consultas y cargas. Como crear un diseño lógico como relacional.
+Se solicita implementar una base de datos de evaluaciones. Se deben crear Scripts para su integración, 
+consultas y cargas. Como crear un diseño lógico como relacional.
 
 Herramientas utilizadas 
 *Oracle SQL Developer
